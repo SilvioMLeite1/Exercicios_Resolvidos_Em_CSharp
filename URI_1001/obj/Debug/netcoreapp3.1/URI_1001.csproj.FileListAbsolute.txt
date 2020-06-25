@@ -1,0 +1,13 @@
+D:\Curso\CSHARP\URI\URI_1001\bin\Debug\netcoreapp3.1\URI_1001.exe
+D:\Curso\CSHARP\URI\URI_1001\bin\Debug\netcoreapp3.1\URI_1001.deps.json
+D:\Curso\CSHARP\URI\URI_1001\bin\Debug\netcoreapp3.1\URI_1001.runtimeconfig.json
+D:\Curso\CSHARP\URI\URI_1001\bin\Debug\netcoreapp3.1\URI_1001.runtimeconfig.dev.json
+D:\Curso\CSHARP\URI\URI_1001\bin\Debug\netcoreapp3.1\URI_1001.dll
+D:\Curso\CSHARP\URI\URI_1001\bin\Debug\netcoreapp3.1\URI_1001.pdb
+D:\Curso\CSHARP\URI\URI_1001\obj\Debug\netcoreapp3.1\URI_1001.csprojAssemblyReference.cache
+D:\Curso\CSHARP\URI\URI_1001\obj\Debug\netcoreapp3.1\URI_1001.csproj.CoreCompileInputs.cache
+D:\Curso\CSHARP\URI\URI_1001\obj\Debug\netcoreapp3.1\URI_1001.AssemblyInfoInputs.cache
+D:\Curso\CSHARP\URI\URI_1001\obj\Debug\netcoreapp3.1\URI_1001.AssemblyInfo.cs
+D:\Curso\CSHARP\URI\URI_1001\obj\Debug\netcoreapp3.1\URI_1001.dll
+D:\Curso\CSHARP\URI\URI_1001\obj\Debug\netcoreapp3.1\URI_1001.pdb
+D:\Curso\CSHARP\URI\URI_1001\obj\Debug\netcoreapp3.1\URI_1001.genruntimeconfig.cache
